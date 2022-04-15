@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://c.tenor.com/IHYlUOyvFzEAAAAC/spongebob-walking.gif)
+<img src="https://c.tenor.com/IHYlUOyvFzEAAAAC/spongebob-walking.gif" width="40" height="40" />
 <!--
 **spoNge369/sponge369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
