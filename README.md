@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="./spongebob-walking.gif" width="300" height="150" />
+<img src="https://github.com/user-attachments/assets/d9563c56-457f-4fcd-aca5-47f02bb447d4" width="300" height="150" />
+
 
 <!--
 **spoNge369/sponge369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
